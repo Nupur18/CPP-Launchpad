@@ -10,7 +10,7 @@ void is_even_odd( int n )
     }
     else
     {
-        cout<<n<<" is even."<<endl;
+        cout<<n<<" is odd."<<endl;
     }
 }  
 
